@@ -1,4 +1,4 @@
-# WealthWise
+# WealthWise ![image](https://github.com/AbhishekNair050/WealthWise/assets/114457983/7f6d097b-ba20-43d3-a657-276758bf9480)
 
 ## Overview
 WealthWise aims to revolutionize financial advisory services by leveraging cutting-edge generative AI technology. Our solution provides personalized, data-driven investment advice tailored to individual financial profiles and real-time market conditions, fostering financial literacy and economic well-being for all.
@@ -17,6 +17,7 @@ WealthWise aims to revolutionize financial advisory services by leveraging cutti
 - **Security**: Robust encryption and secure access protocols.
 
 ## Questionnaire Section
+![Questionnaire](https://github.com/AbhishekNair050/WealthWise/assets/114457983/a8b3fbf1-6728-4641-a68e-0843f7393e93)
 
 ### Overview
 Our questionnaire is designed to identify user financial preferences and goals, helping tailor personalized financial plans. It considers factors like risk tolerance, investment horizon, and liquidity needs, ensuring recommendations align with individual circumstances.
