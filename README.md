@@ -12,8 +12,6 @@ WealthWise aims to revolutionize financial advisory services by leveraging cutti
 
 ## Personalized Questionnaire
 ![Questionnaire](https://github.com/AbhishekNair050/WealthWise/assets/114457983/a8b3fbf1-6728-4641-a68e-0843f7393e93)
-
-### Overview
 Our questionnaire is designed to identify user financial preferences and goals, helping tailor personalized financial plans. It considers factors like risk tolerance, investment horizon, and liquidity needs, ensuring recommendations align with individual circumstances.
 
 ## Methodology
@@ -43,7 +41,6 @@ This methodology ensures a seamless user experience with accurate and personaliz
 
 ## Proposed Dashboard
 ![Dashboard](https://github.com/AbhishekNair050/WealthWise/assets/114457983/03fe3831-a1cd-41ad-a4b1-49e39a2f1c0f)
-### Overview
 The dashboard is designed to provide users with a comprehensive view of their financial status and market trends, enhancing user experience through intuitive navigation and actionable insights.
 
 ### Features
