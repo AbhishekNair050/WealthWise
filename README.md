@@ -22,7 +22,7 @@ This flowchart illustrates our comprehensive methodology:
 ![image](https://github.com/AbhishekNair050/WealthWise/assets/114457983/88740ee7-48cd-4881-8860-9eebab196156)
 
 
-1. **Data Collection**: Gather financial data from users, market trends, and scraped advisory websites.
+1. **Data Collection**: Gather financial data from users, market trends, and [scraped advisory websites](https://docs.google.com/document/d/1F01QVKZ31cu6SVc9ahN84okCdmLrMxhUtfd6ShGt_g8/edit?usp=sharing).
 2. **Data Processing**: Clean and analyze data to extract meaningful insights.
 3. **Word Embeddings**: Utilize Azure Cognitive Services to process and understand textual data from financial sources.
 4. **Model Training**: Leverage Azure OpenAI (GPT-4) for training models that generate personalized advice.
